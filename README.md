@@ -25,7 +25,7 @@ Nessa versão, todo o código foi refatorado para utilizar o TypeScript como lin
 ---
 
 ## 🌐 Access the project
-https://organo-gamma-eight.vercel.app/
+https://organo-typescript-sandy.vercel.app/
 
 ## ⚙️ Functionalities
 
